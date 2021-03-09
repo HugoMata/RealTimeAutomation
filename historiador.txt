@@ -1,6 +1,0 @@
-Altura controlada TQ1: 0.0 
-Altura controlada TQ2: 0.0 
-Vazao entrada TQ1: 2.2 
-Vazao entrada TQ2: 1.1 
-Vazao saida TQ1: 0.0 
-Vazao saida TQ2: 0.0 
